@@ -1,0 +1,15 @@
+{
+  "name": "jinkela-button",
+  "version": "1.0.0",
+  "description": "Button",
+  "main": "index.js",
+  "author": "YanagiEiichi (admin@web-tinker.com)",
+  "license": "MIT",
+  "scripts": {
+    "lint": "eslint . --fix"
+  },
+  "devDependencies": {
+    "eslint": "^4.2.0",
+    "eslint-config-elemefe": "^0.3.0"
+  }
+}
